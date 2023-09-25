@@ -1,0 +1,30 @@
+/* google picker for selecting color */
+/*  *==asterisks    */
+/*   &=amper sant   */
+/* h1{
+    color: red;
+}
+p{
+    color: rgb(33, 117, 33);
+}
+button{
+    color:rgb(45, 130, 17);
+    background-color: rgb(71, 54, 163);
+}
+body{
+    /* background-color: rgb(191,34,115); */
+
+    /* HEX(HEXADECIMAL) FORMAT
+    color:#ff0000 it indicates red color
+    color:#00ff00 it indicates green color */
+    /* background-color: #ffff00; */
+/* }  */
+
+
+/* UNIVERSAL SELECTOR */
+*{
+    color: brown;
+}
+
+
+
