@@ -22,9 +22,25 @@ body{
 
 
 /* UNIVERSAL SELECTOR */
-*{
+/* *{
     color: brown;
+} */
+
+#heading1{
+    color: green;
 }
 
 
+#heading2{
+    color: red;
+}
+#heading3{
+    color: deeppink;
+}
 
+.myclass{
+    color: coral;
+}
+.black{
+    background-color: black;
+}
