@@ -26,9 +26,9 @@ body{
     color: brown;
 } */
 
-#heading1{
-    color: green;
-}
+/* #heading1{ */
+    /* color: green; */
+/* }
 
 
 #heading2{
@@ -43,4 +43,67 @@ body{
 }
 .black{
     background-color: black;
+} */
+
+/* p{
+    text-align:center;
+} */
+/* h1{
+    text-align:center;
+    /* it can add color to the underline */
+    /* text-decoration: red wavy underline ;
+    text-decoration: dotted underline; */
+    /* text-decoration: line-through; */
+/* }  */
+a{
+    /* none means it can remove the underline */
+    text-decoration: none   ;
+}
+
+/* #h1{
+    font-weight: normal ;
+}
+#h2{
+    font-weight: bold;
+}
+#h3{
+    font-weight: lighter ;
+}
+#h4{
+    font-weight: light;
+}
+#h1{
+    font-weight: 100 ;
+}
+#h2{
+    font-weight: 200;
+}
+#h3{
+    font-weight: 400 ;
+}
+#h4{
+    font-weight: 900;
+} */
+
+/* 
+h1{
+    font-style: italic;
+}
+#one{
+    font-family:Arial, Helvetica, sans-serif;
+}
+#two{
+    font-family: 'Segoe UI''Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+#one{
+  font-size: 25px;
+  line-height: 25px;
+  text-transform:capitalize;
+}
+#two{
+  font-size: 10px;
+}
+#three{
+  font-size: 5px;
 }
