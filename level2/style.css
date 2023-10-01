@@ -1,17 +1,17 @@
  div{
-    height: 100px;
+    /* height: 100px;
     width: 100px;
-    background-color: pink;
+    background-color: pink; */
     /* border-width: 3px;
     border-style:dashed;
     border-color: red; */
     /* short hand representation */
-    border:2px solid brown;
-    border-radius: 10px;
+    /* border:2px solid brown;
+    border-radius: 10px; */
     /* padding-left: 25px;  
     padding-top: 25px;
     padding-right: 30px; */
-    padding: 20px 15px 4px 5px;
+    /* padding: 20px 15px 4px 5px; */
 } 
 /*h1{
     height: 100px;
@@ -21,4 +21,45 @@
     border-style: double;
     border-color: pink;
     background-color: antiquewhite;
+} */
+
+/* DISPLAY PROPERTY */
+/* div{
+    background-color: aqua;
+    display: inline;
+} */
+#one{
+    background-color: aquamarine;
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding:25px;
+    border-radius: 25px;
+    display: inline-block  ;
+}
+#two{
+    background-color: blueviolet;
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding:25px;
+    border-radius: 25px;
+    display: inline-block;
+
+
+
+}
+#three{
+    background-color: chartreuse;
+    width:100px;
+    height:100px;
+    margin:25px;
+    padding:25px;
+    border-radius: 25px;
+    display: inline-block;
+
+
+}
+/* button{
+display: block;
 } */
