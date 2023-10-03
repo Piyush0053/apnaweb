@@ -1,0 +1,31 @@
+/* #box1{
+    height:100px;
+    width:100px;
+    background-color: green;
+    font-size: 9px;
+
+}
+#box2{
+    height:50px;
+    width:30%;
+    background-color: yellow;
+    margin-left : 20px;
+    /* "em " means the the font size of the  */
+    /* children is 2 times of the parent's font size  */
+    /* similarly ot can be "3em","4em" */
+    /* font-size: 2em; */
+/* }   */
+
+/* *********************** */
+/* {Position --STatic} */
+div{
+    height: 100px;
+    width: 100px;   
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+
+}
+#box1{
+    position: static;
+}
