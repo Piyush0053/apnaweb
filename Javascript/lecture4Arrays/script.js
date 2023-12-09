@@ -52,9 +52,9 @@
 // let comp=["ama","flip","meta","google","netflix"];
 // comp.shift();
 // console.log(comp);
-// comp.push("amazon");
-
-// comp.splice(2);
+// comp.unshift("amazon");
+// console.log(comp);
+// comp.splice(3);
 // console.log(comp);
 // **************************************************************************************888
 
